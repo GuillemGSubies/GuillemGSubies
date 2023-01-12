@@ -3,7 +3,7 @@
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black) [![follow](https://img.shields.io/github/followers/GuillemGsubies?style=social)](https://github.com/GuillemGSubies) [![Linkedin: guillem](https://img.shields.io/badge/-guillemgsubies-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guillemgsubies/)](https://www.linkedin.com/in/guillemgsubies/)
 
-<samp>I am a Mathematician and Computer Scientist with a MSc in Artificial Ingelligence. I work as a Data Scientist Researcher with focus on NLP and Deep Learning. I'm also very interested in clean code and open source.</samp>
+<samp>I am a Mathematician and Computer Scientist with a MSc in Artificial Ingelligence. Right now I'm a NLP PhD fellow at UC3M and I work as a Data Scientist Researcher with focus on NLP and Deep Learning at IIC. I'm also very interested in clean code and open source.</samp>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -19,6 +19,19 @@ You are the visitor number ![Visitor Count](https://profile-counter.glitch.me/Gu
   <img align="center" src="https://github-readme-stackoverflow.vercel.app/?userID=9288003&theme=dark" height="250"></a>
 </a> <br>
 
+<br>
+
+<a href="https://www.codewars.com/users/GuillemGSubies">
+  <img align="center" src="https://www.codewars.com/users/GuillemGSubies/badges/large"></a>
+</a> <br>
+
+
+<!--
+
+![GuillemGSubies's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuillemGSubies&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillemGSubies&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://github.com/anuraghazra/github-readme-statst">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillemGSubies&layout=compact&theme=tokyonight" />
 </a>
@@ -26,7 +39,6 @@ You are the visitor number ![Visitor Count](https://profile-counter.glitch.me/Gu
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuillemGSubies&show_icons=true&theme=tokyonight" />
 </a>
 
-<!--
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
